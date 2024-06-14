@@ -10,9 +10,10 @@ int main(){
 	cout <<" Ingresa la cantidad de numeros multiplos de 7: ";
 	cin >> n;
 	i = 1;
+	cout << "MULTIPLICANDO  MULTIPLICADOR  PRODUCTO" << endl;
 	while (i<=n){
 		m7 = i * 7;
-		cout << m7 << endl;
+		cout << "    "<< i << "         * " << "       "<<7 << "     = "<< m7 << endl;
 		i++;	
 	}
 	return 0;
