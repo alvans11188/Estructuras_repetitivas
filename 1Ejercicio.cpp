@@ -1,3 +1,7 @@
+/*Diseñar un algoritmo que imprima en la pantalla los primeros “n” múltiplos de 7 (positivos 
+mayores que cero)
+*/
+
 #include <iostream>
 using namespace std;
 
