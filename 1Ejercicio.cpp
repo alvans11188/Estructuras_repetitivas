@@ -11,11 +11,11 @@ int main(){
 	cin >> n;
 
 	if (n>0){
-			cout << "MULTIPLICANDO  MULTIPLICADOR  PRODUCTO" << endl;
+		
 		i=1;
 		do{
 			m7 = i * 7;
-			cout << "    "<< i << "         * " << "       "<<7 << "     = "<< m7 << endl;
+			cout << "Multiplicando  "<< i << " por  "<<7 << " el producto es: "<< m7 << endl;
 			i++;	
 		}while(i<=n);
 	}else{
