@@ -21,7 +21,7 @@ int main(){
 		}else if (cantidadnumeros == 0){
 			cout << "Ok, no se mostrara nada.";
 		} else{
-			cout << "Se ingreso un dato invalido. Intente de nuevo."<< endl;
+			cout << "No valido. Intente de nuevo."<< endl;
 		}
 		cout << endl;
 	} while(cantidadnumeros<0);
